@@ -1,0 +1,56 @@
+.search{
+    margin: 20px;
+    height: 35px;
+    width: 70%;
+    
+}
+.user-profile
+{
+    background-color: rgb(240, 243, 245);
+}
+.search-bar
+{
+    width:50%
+}
+.devName{
+    color:rgb(68, 66, 66)
+}
+.action-box
+{
+    border-radius: 50%;
+    background-color: rgb(178, 206, 238);
+    height: 60px;
+    width: 60px;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+.action-Icons
+{
+    color: blue;
+}
+.option{
+    
+    margin:5px;
+    margin-left: 3vw;
+    display:flex;
+}
+
+
+.action-wrapper
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.alpha
+{
+    margin-bottom: 20px;
+}
+.options{
+    margin: 100px;
+}
